@@ -22,7 +22,7 @@
    andri@Nfortec MINGW64 /e/Intelling/Contornos/ejercicioGit2 (main)
     $ git branch rama2
 
-    andri@Nfortec /e/Alejandro/cd/ejercicioGit2 (main)
+    andri@Nfortec /e/Intelling/Contornos/ejercicioGit2 (main)
     $ git checkout rama2
     Switched to branch 'rama2'
    ```
